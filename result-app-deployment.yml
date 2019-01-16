@@ -9,7 +9,7 @@ spec:
   selector:
     matchLabels:
       name: result-app-pod
-      app: demo-voting-ap
+      app: demo-voting-app
   template:
     metadata:
       name: result-app-pod
